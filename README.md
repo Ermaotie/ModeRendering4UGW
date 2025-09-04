@@ -5,9 +5,9 @@
 ## 内容展示
 
 
-```markdown
+
 ![Cg3200.9562-m6-f300kHz-3d](select_img/Cg3200.9562-m6-f300kHz-3d.gif)
-```
+
 
 
 
